@@ -4,8 +4,8 @@ esphome:
   board: d1_mini
 
 wifi:
-  ssid: "my_technology"
-  password: "35k4nu54marina"
+  ssid: "isi nama wifi"
+  password: "isi pw"
 
   # # Optional manual IP
   # manual_ip:
